@@ -1,2 +1,2 @@
 # ML_Assignments
- ML masters with deployment and deep learning Assinments
+ ML masters with deployment and deep learning Assignments
